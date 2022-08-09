@@ -1,1 +1,5 @@
 This is a test
+
+Questions: 
+1)Where is this git repo? Is it in the practicing-with-git folder in my documents?
+2) Is git working in the terminal?
